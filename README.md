@@ -27,7 +27,7 @@ I want to change the image style of some of the patterns in my project to pixel 
 ![screenshot](readmeImages/pixels_columbia_pictures.webp)
 
 - Example 4
-![screenshot](https://img2.doubanio.com/view/photo/l/public/p2292909951.webp)
+![screenshot](readmeImages/example%204.webp)
 
  [Reference of film screenshot Example 1-3](https://digitaldomain.com/work/%E5%83%8F%E7%B4%A0%E5%A4%A7%E6%88%98/?lang=zh-hans)
 
